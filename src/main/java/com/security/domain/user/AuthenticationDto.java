@@ -1,6 +1,6 @@
-package com.security.domain.user;
-
-public record AuthenticationDto(
-        String login,
-        String password) {
-}
+//package com.security.domain.user;
+//
+//public record AuthenticationDto(
+//        String login,
+//        String password) {
+//}
